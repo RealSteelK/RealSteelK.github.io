@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on My New Hugo Site</title>
+    <link>https://RealSteelK.github.io/docs/</link>
+    <description>Recent content in Docs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2023 01:42:59 +0900</lastBuildDate><atom:link href="https://RealSteelK.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newpages</title>
+      <link>https://RealSteelK.github.io/docs/newpages/</link>
+      <pubDate>Sat, 14 Oct 2023 01:42:59 +0900</pubDate>
+      
+      <guid>https://RealSteelK.github.io/docs/newpages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
